@@ -56,17 +56,28 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with MongoDB &amp; Mongoose](https://yusuflateefblog.vercel.app/post/test-post)
+- [What make this portfolio a Badass](https://yusuflateefblog.vercel.app/post/next-js)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://yusuflateefblog.vercel.app/)
 
 ---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 
 [website]: https://yusuflateef-d3dd8.web.app/
 [twitter]: https://twitter.com/bigYusufff
