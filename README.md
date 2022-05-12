@@ -56,6 +56,21 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Getting Started with MongoDB &amp; Mongoose](https://yusuflateefblog.vercel.app/post/test-post)
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://yusuflateefblog.vercel.app/post/next-js)
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://yusuflateefblog.vercel.app/)
+
+---
+
 [website]: https://yusuflateef-d3dd8.web.app/
 [twitter]: https://twitter.com/bigYusufff
 [instagram]: https://instagram.com/BigYusufff
