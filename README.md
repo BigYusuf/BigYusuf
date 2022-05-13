@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--## I'm a Husband, Father, Developer, and Teacher!!-->
 
 - 🔭 I’m currently working on a Navbar-Menu Npm package
-- 🌱 I’m currently learning Next JS 🤣
-- 👯 I’m looking to collaborate with amzing people
+- 🌱 I’m currently learning Typescript 🤣
+- 👯 I’m looking to collaborate with amazing people
 - 💬 Ask me about API's and interesting related stacks
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to play board games like chess
+- ⚡ Fun fact: I love to play board games like chess and watch anime
 
 ### Connect with me:
 
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][weblink]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][weblink]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][weblink]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][weblink]
+[<img align="left" alt="Redux" width="26px" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" style="padding-right:10px;" />][weblink]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][weblink]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][weblink]
+[<img align="left" alt="Sanity" width="26px" src="https://avatars.githubusercontent.com/u/17177659?s=280&v=4" style="padding-right:10px;" />][weblink]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][weblink]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />][weblink]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][weblink]
