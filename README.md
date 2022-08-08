@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--## I'm a Husband, Father, Developer, and Teacher!!-->
 
-- 🔭 I’m currently working on a Navbar-Menu Npm package
+- 🔭 I’m currently working on a Election API and Its example dashboard
 - 🌱 I’m currently learning Typescript 🤣
 - 👯 I’m looking to collaborate with amazing people
 - 💬 Ask me about API's and interesting related stacks
