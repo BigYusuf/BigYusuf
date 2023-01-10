@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Typescript 🤣
 - 👯 I’m looking to collaborate with amazing people
 - 💬 Ask me about API's and interesting related stacks
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Focus more on building cool trading bots
 - ⚡ Fun fact: I love to play board games like chess and watch anime
 
 ### Connect with me:
