@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--## I'm a Husband, Father, Developer, and Teacher!!-->
 
-- 🔭 I’m currently working as a freelancer
+- 🔭 I’m currently working as a [freelancer][freelancewebsite]
 - 🌱 I’m currently learning Typescript 🤣
 - 👯 I’m looking to collaborate with amazing people
 - 💬 Ask me about API's and interesting related stacks
@@ -85,7 +85,8 @@ Here are some ideas to get you started:
 </details>
 
 
-[website]: https://yusuflateef-d3dd8.web.app/
+[website]: https://yusuflateef.vercel.app/
+[freelancewebsite]: https://www.upwork.com/freelancers/~01d7ce33fa4143b7db
 [twitter]: https://twitter.com/bigYusufff
 [instagram]: https://instagram.com/BigYusufff
 [linkedin]: https://linkedin.com/in/bigyusuff
