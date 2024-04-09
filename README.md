@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <!--## I'm a Husband, Father, Developer, and Teacher!!-->
 
 - 🔭 I’m currently working as a [freelancer][freelancewebsite]
-- 🌱 I’m currently implementing some cool tools from Next 13 🤣
+- 🌱 I’m currently implementing some cool tools from Next 14 🤣
 - 👯 I’m looking to collaborate with amazing people
 - 💬 Ask me about API's and interesting related stacks
-- 🥅 2023 Goals: Focus more on building cool trading bots
+- 🥅 2024 Goals: Focus more on helping and solving problems
 - ⚡ Fun fact: I love to play board games like chess and watch anime
 
 ### Connect with me:
