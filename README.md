@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--## I'm a Husband, Father, Developer, and Teacher!!-->
 
 - 🔭 I’m currently working as a [freelancer][freelancewebsite]
-- 🌱 I’m currently implementing some cool tools from Next 14 🤣
+- 🌱 I’m currently building on a trading bot to reach more clients 🤣
 - 👯 I’m looking to collaborate with amazing people
 - 💬 Ask me about API's and interesting related stacks
 - 🥅 2024 Goals: Focus more on helping and solving problems
